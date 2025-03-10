@@ -1,0 +1,6 @@
+# macOSの隠しファイル
+.DS_Store
+
+# Gitモジュールの設定ファイル
+.gitmodules
+
